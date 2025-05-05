@@ -67,4 +67,4 @@ except ValueError as e:
 
 **Julio César Caycho García**  
 📧 ing@cesarcaycho.com  
-📍 Chilca, Perú
+📍 Lima, Perú
